@@ -17,5 +17,5 @@
 
 ## Telas do projeto:
 
-![paginas_web](https://github.com/claudineinobrega/JogoMemoria/blob/master/img/telainicio.png)
-![paginas_web](https://github.com/claudineinobrega/JogoMemoria/blob/master/img/telafim.png)
+![paginas_web](https://github.com/claudineinobrega/JogoDaMemoria/blob/master/img/telainicio.png)
+![paginas_web](https://github.com/claudineinobrega/JogoDaMemoria/blob/master/img/telafim.png)
